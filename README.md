@@ -6,11 +6,12 @@
   <body>
     <div>
       <h>User name </h>
-      <input type="text"/>
       <br/>
+      <input type="text"/>
       <h>Password</h>
-      <input type="text"/>
       <br/>
+      <input type="text"/>
+      
       <button>Login </button>
       <br/>
       <p>forgot password ?</p>
